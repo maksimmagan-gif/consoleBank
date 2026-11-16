@@ -1,0 +1,15 @@
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\bin\Debug\net10.0\Bank.exe
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\bin\Debug\net10.0\Bank.deps.json
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\bin\Debug\net10.0\Bank.runtimeconfig.json
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\bin\Debug\net10.0\Bank.dll
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\bin\Debug\net10.0\Bank.pdb
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\obj\Debug\net10.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\obj\Debug\net10.0\Bank.AssemblyInfoInputs.cache
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\obj\Debug\net10.0\Bank.AssemblyInfo.cs
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\obj\Debug\net10.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\obj\Debug\net10.0\Bank.dll
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\obj\Debug\net10.0\refint\Bank.dll
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\obj\Debug\net10.0\Bank.pdb
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\obj\Debug\net10.0\Bank.genruntimeconfig.cache
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\obj\Debug\net10.0\ref\Bank.dll
+C:\Users\maksi_\Desktop\Matisik\Bank\Bank\obj\Debug\net10.0\Bank.csproj.Up2Date
